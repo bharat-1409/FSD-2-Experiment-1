@@ -1,16 +1,142 @@
-# React + Vite
+# 🚀 FSD-2 Experiment 1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📚 Experiment Title
 
-Currently, two official plugins are available:
+Post Composer with Platform Validation & Draft Management
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## 📖 Objective
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The objective of this experiment is to develop a React-based Post Composer that allows users to create posts for multiple social media platforms while enforcing platform-specific validation rules. The project also includes draft management, input validation, mock backend interaction, and modern React development practices.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Technologies Used
+
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3
+- React Hooks
+- Local Storage
+- Mock API Simulation
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+│
+├── components/
+├── hooks/
+├── utils/
+├── services/
+├── App.js
+└── index.js
+```
+
+---
+
+## ✨ Features Implemented
+
+### Assignment 1
+- Multi-platform Post Composer
+- Platform Selection
+- Dynamic Character Limits
+- Real-time Input Validation
+- Error Messages
+
+### Assignment 2
+- Draft Management System
+- Save Draft
+- Retrieve Draft
+- Edit Draft
+- Delete Draft
+- LocalStorage Integration
+
+### Assignment 3
+- Strategy Design Pattern
+- Platform-specific Validation
+- Reusable Validation Logic
+- Easy Platform Extension
+
+### Assignment 4
+- Mock API Integration
+- Loading State
+- Error Handling
+- Retry Logic
+- Toast Notifications
+
+---
+
+## 📖 Concepts Covered
+
+- Controlled Components
+- React Hooks
+- Custom Hooks
+- Form Validation
+- Platform-based Business Rules
+- Strategy Design Pattern
+- Mock API
+- Async Programming
+- Retry Mechanism
+- Toast Notifications
+- Local Storage
+- Error Handling
+- State Management
+
+---
+
+## ▶️ How to Run
+
+```bash
+npm install
+npm start
+```
+
+---
+
+## 🎯 Learning Outcomes
+
+- Build scalable React applications
+- Handle controlled form inputs
+- Implement reusable validation strategies
+- Simulate backend API interactions
+- Manage application state effectively
+- Improve user experience using toast notifications
+- Implement retry logic and fault tolerance
+- Work with browser Local Storage
+
+---
+
+## 📌 Key Features
+
+✔ Multi-platform Post Composer
+
+✔ Dynamic Validation
+
+✔ Draft Management
+
+✔ Local Storage Support
+
+✔ Strategy Pattern
+
+✔ Mock API
+
+✔ Retry Logic
+
+✔ Loading & Error Handling
+
+✔ Toast Notifications
+
+---
+
+## 👨‍💻 Author
+
+**Bharat Dutta**
+
+BE CSE (Artificial Intelligence & Machine Learning)
+
+Chandigarh University
